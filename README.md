@@ -5,7 +5,7 @@
 <div align="center">
   <h1>Hi there, I'm Likithraj! 👋</h1>
   <p><h3>Aspiring Full Stack Engineer | Python & AI/ML Enthusiast</h3></p>
-  <p>Building scalable solutions and integrating seamless APIs, with a passion for enhancing system performance and reliability, especially in healthcare tech.</p>
+  <p>Building scalable solutions and integrating seamless APIs, with a passion for enhancing system performance and reliability.</p>
 
   <p>
     <a href="https://linkedin.com/in/liki22" target="_blank">
