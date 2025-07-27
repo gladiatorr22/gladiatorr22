@@ -66,7 +66,7 @@
   <div style="flex: 1 1 45%; border: 1px solid #333; padding: 15px; border-radius: 8px;">
     <h2>💼 Experience</h2>
     <ul>
-      <li>**Engineering Intern @ Biosoft Health Tech Pvt Ltd** (Oct 2024 - Jan 2025)
+      <li>Engineering Intern @ Biosoft Health Tech Pvt Ltd (Oct 2024 - Jan 2025)
         <ul>
           <li>Engineered scalable Healthcare Service Management System.</li>
           <li>Developed responsive React.js UIs for appointment scheduling.</li>
@@ -74,14 +74,14 @@
           <li>Integrated ABDM APIs for secure health data exchange.</li>
         </ul>
       </li>
-      <li>**Product Management Virtual Experience @ Electronic Arts** (Jan 2025 - Jun 2025)
+      <li>Product Management Virtual Experience @ Electronic Arts (Jan 2025 - Jun 2025)
         <ul>
           <li>Analyzed product KPIs for gameplay and engagement.</li>
           <li>Proposed and documented new game features.</li>
           <li>Refactored codebase for scalability and maintainability.</li>
         </ul>
       </li>
-      <li>**Solutions Architecture Virtual Experience @ AWS APAC** (Jan 2025 - Jun 2025)
+      <li>Solutions Architecture Virtual Experience @ AWS APAC(Jan 2025 - Jun 2025)
         <ul>
           <li>Designed cost-effective, scalable cloud architecture.</li>
           <li>Delivered client-facing solution explanation.</li>
@@ -93,19 +93,19 @@
   <div style="flex: 1 1 45%; border: 1px solid #333; padding: 15px; border-radius: 8px;">
     <h2>🌟 Featured Projects</h2>
     <ul>
-      <li>**Epilepsy Risk Prediction Web Tool**
+      <li>Epilepsy Risk Prediction Web Tool
         <ul>
           <li>Deep learning-powered web app for seizure risk prediction.</li>
           <li>Achieved 97-98% accuracy on EEG datasets.</li>
         </ul>
       </li>
-      <li>**ABHA Integration App**
+      <li>ABHA Integration App
         <ul>
           <li>Cross-platform mobile interfaces for AADHAR authentication.</li>
           <li>Integrated ABDM-compliant APIs for digital health data sharing.</li>
         </ul>
       </li>
-      <li>**Web-Based AI Chatbot for Medical Support**
+      <li>Web-Based AI Chatbot for Medical Support
         <ul>
           <li>AI chatbot using NLP for real-time medical support.</li>
           <li>Improved response accuracy and user engagement.</li>
@@ -117,11 +117,11 @@
   <div style="flex: 1 1 45%; border: 1px solid #333; padding: 15px; border-radius: 8px;">
     <h2>🎓 Education</h2>
     <ul>
-      <li>**Bachelor of Engineering in Computer Science**
+      <li>Bachelor of Engineering in Computer Science
         <br>Global Academy of Technology (Dec 2021 - Jun 2025)
         <br>CGPA: 8.93
       </li>
-      <li>**Pre University Education**
+      <li>Pre University Education
         <br>Swargarani School & PU College (Jun 2019 - May 2021)
         <br>Percentage: 95.83
       </li>
