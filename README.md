@@ -1,136 +1,100 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=gladiatorr22&color=blue" alt="Profile Views">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BD93F9&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Likithraj+%F0%9F%91%8B;Aspiring+Full+Stack+Engineer;Python+%26+AI%2FML+Enthusiast" alt="Typing SVG" />
+  </a>
 </div>
 
 <div align="center">
-  <h1>Hi there, I'm Likithraj! 👋</h1>
-  <p><h3>Aspiring Full Stack Engineer | Python & AI/ML Enthusiast</h3></p>
-  <p>Building scalable solutions and integrating seamless APIs, with a passion for enhancing system performance and reliability.</p>
+  <p>Crafting clean, scalable, and user-centric applications across the full stack. Passionate about bridging the gap between elegant design and powerful functionality.</p>
+</div>
 
-  <p>
+<div align="center" style="margin-bottom: 20px;">
     <a href="https://linkedin.com/in/liki22" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="mailto:likhitnataraj@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
     <a href="https://gladiatorr22.github.io/gladiator22.github.io/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+      <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
     </a>
-  </p>
 </div>
 
 ---
+
+### 🚀 Tech Stack
 
 <div align="center">
-  <h2>🚀 My Tech Stack</h2>
-  <p>
-    <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-    <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
-    <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-    <br>
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-    <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-    <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" alt="React.js">
-    <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-    <img src="https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react-native&logoColor=white" alt="React Native">
-    <img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
-    <br>
-    <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-    <img src="https://img.shields.io/badge/SQL_Server-000000?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
-    <br>
-    <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-    <img src="https://img.shields.io/badge/Swagger-000000?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger">
-    <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-  </p>
+  <table>
+    <tr>
+      <td align="center"><strong>Languages</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+        <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL">
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Backend</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Frontend</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js">
+        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native">
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Tools & Platforms</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+        <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger">
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
+
+### 📊 GitHub Stats
 
 <div align="center">
-  <h2>📊 My GitHub Stats</h2>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=gladiatorr22&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Likithraj N GitHub Stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gladiatorr22&layout=compact&theme=dark" alt="Likithraj N Top Languages">
-  </p>
+  <img src="https://github-readme-stats.vercel.app/api?username=gladiatorr22&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=3600" alt="Likithraj's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gladiatorr22&layout=compact&theme=dracula&cache_seconds=3600" alt="Likithraj's Top Languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=gladiatorr22&theme=dracula" alt="Likithraj's GitHub Streak" />
 </div>
 
 ---
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 20px; padding: 20px;">
-  <div style="flex: 1 1 45%; border: 1px solid #333; padding: 15px; border-radius: 8px;">
-    <h2>💼 Experience</h2>
-    <ul>
-      <li>Engineering Intern @ Biosoft Health Tech Pvt Ltd (Oct 2024 - Jan 2025)
-        <ul>
-          <li>Engineered scalable Healthcare Service Management System.</li>
-          <li>Developed responsive React.js UIs for appointment scheduling.</li>
-          <li>Contributed to ABHA mobile app using React Expo Go.</li>
-          <li>Integrated ABDM APIs for secure health data exchange.</li>
-        </ul>
-      </li>
-      <li>Product Management Virtual Experience @ Electronic Arts (Jan 2025 - Jun 2025)
-        <ul>
-          <li>Analyzed product KPIs for gameplay and engagement.</li>
-          <li>Proposed and documented new game features.</li>
-          <li>Refactored codebase for scalability and maintainability.</li>
-        </ul>
-      </li>
-      <li>Solutions Architecture Virtual Experience @ AWS APAC(Jan 2025 - Jun 2025)
-        <ul>
-          <li>Designed cost-effective, scalable cloud architecture.</li>
-          <li>Delivered client-facing solution explanation.</li>
-        </ul>
-      </li>
-    </ul>
-  </div>
+### 🌟 Featured Projects
 
-  <div style="flex: 1 1 45%; border: 1px solid #333; padding: 15px; border-radius: 8px;">
-    <h2>🌟 Featured Projects</h2>
-    <ul>
-      <li>Epilepsy Risk Prediction Web Tool
-        <ul>
-          <li>Deep learning-powered web app for seizure risk prediction.</li>
-          <li>Achieved 97-98% accuracy on EEG datasets.</li>
-        </ul>
-      </li>
-      <li>ABHA Integration App
-        <ul>
-          <li>Cross-platform mobile interfaces for AADHAR authentication.</li>
-          <li>Integrated ABDM-compliant APIs for digital health data sharing.</li>
-        </ul>
-      </li>
-      <li>Web-Based AI Chatbot for Medical Support
-        <ul>
-          <li>AI chatbot using NLP for real-time medical support.</li>
-          <li>Improved response accuracy and user engagement.</li>
-        </ul>
-      </li>
-    </ul>
-  </div>
+* **Epilepsy Risk Prediction Web Tool**
+    * A deep learning-powered web application for predicting seizure risk using EEG data, achieving 97-98% accuracy.
+* **ABHA Integration App**
+    * Developed cross-platform mobile interfaces for AADHAR authentication and integrated ABDM-compliant APIs for secure digital health data sharing.
+* **Web-Based AI Chatbot for Medical Support**
+    * An AI-powered chatbot using NLP to provide real-time medical support, significantly improving response accuracy and user engagement.
 
-  <div style="flex: 1 1 45%; border: 1px solid #333; padding: 15px; border-radius: 8px;">
-    <h2>🎓 Education</h2>
-    <ul>
-      <li>Bachelor of Engineering in Computer Science
-        <br>Global Academy of Technology (Dec 2021 - Jun 2025)
-        <br>CGPA: 8.93
-      </li>
-      <li>Pre University Education
-        <br>Swargarani School & PU College (Jun 2019 - May 2021)
-        <br>Percentage: 95.83
-      </li>
-    </ul>
-  </div>
+---
 
-  <div style="flex: 1 1 45%; border: 1px solid #333; padding: 15px; border-radius: 8px; text-align: center;">
-    <h2>Get in Touch!</h2>
-    <p>Looking for a Full Stack Engineer? Let's build something amazing together.</p>
-    <a href="mailto:likhitnataraj@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/HIRE_ME-000000?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Hire Me">
-    </a>
-  </div>
+### 📫 Get in Touch!
+
+<div align="center">
+  <p>Looking for a Full Stack Engineer? Let's build something amazing together.</p>
+  <a href="mailto:likhitnataraj@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/HIRE_ME-BD93F9?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Contact Me">
+  </a>
 </div>
