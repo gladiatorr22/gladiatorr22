@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BD93F9&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Likithraj+%F0%9F%91%8B;Aspiring+Full+Stack+Engineer;Python+%26+AI%2FML+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BD93F9&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Likithraj+%F0%9F%91%8B;Aspiring+Full+Stack+Developer;Python+%26+AI%2FML+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
@@ -74,7 +74,7 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gladiatorr22&layout=compact&theme=dracula&cache_seconds=3600" alt="Likithraj's Top Languages" />
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=gladiatorr22&theme=dracula" alt="Likithraj's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=gladiatorr22&theme=dracula&hide_border=true" alt="Likithraj's GitHub Streak" />
 </div>
 
 ---
