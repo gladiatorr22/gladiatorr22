@@ -74,7 +74,7 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gladiatorr22&layout=compact&theme=dracula&cache_seconds=3600" alt="Likithraj's Top Languages" />
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=gladiatorr22&theme=dracula&hide_border=true" alt="Likithraj's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=gladiatorr22&theme=dracula&ring=BD93F9&date_format=j%20M%5B%20Y%5D" alt="Likithraj's GitHub Streak" />
 </div>
 
 ---
