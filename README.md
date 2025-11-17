@@ -15,7 +15,7 @@
     <a href="mailto:likhitnataraj@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
-    <a href="https://gladiatorr22.github.io/gladiator22.github.io/" target="_blank">
+    <a href="https://likith-portfolio-2201.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
     </a>
 </div>
