@@ -65,36 +65,4 @@
   </table>
 </div>
 
----
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gladiatorr22&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=3600" alt="Likithraj's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gladiatorr22&layout=compact&theme=dracula&cache_seconds=3600" alt="Likithraj's Top Languages" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=gladiatorr22&theme=dracula&ring=BD93F9&date_format=j%20M%5B%20Y%5D" alt="Likithraj's GitHub Streak" />
-</div>
-
----
-
-### 🌟 Featured Projects
-
-* **Epilepsy Risk Prediction Web Tool**
-    * A deep learning-powered web application for predicting seizure risk using EEG data, achieving 97-98% accuracy.
-* **ABHA Integration App**
-    * Developed cross-platform mobile interfaces for AADHAR authentication and integrated ABDM-compliant APIs for secure digital health data sharing.
-* **Web-Based AI Chatbot for Medical Support**
-    * An AI-powered chatbot using NLP to provide real-time medical support, significantly improving response accuracy and user engagement.
-
----
-
-### 📫 Get in Touch!
-
-<div align="center">
-  <p>Looking for a Full Stack Engineer? Let's build something amazing together.</p>
-  <a href="mailto:likhitnataraj@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/HIRE_ME-BD93F9?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Contact Me">
-  </a>
-</div>
