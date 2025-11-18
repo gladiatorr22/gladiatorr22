@@ -68,6 +68,6 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=liki22&show_icons=true&theme=graywhite&hide_border=true&count_private=true" alt="Likithraj's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liki22&layout=compact&theme=graywhite&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gladiatorr22&show_icons=true&theme=graywhite&hide_border=true&count_private=true" alt="Likithraj's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gladiatorr22&layout=compact&theme=graywhite&hide_border=true" alt="Top Languages" />
 </p>
