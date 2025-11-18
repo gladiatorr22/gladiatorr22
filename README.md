@@ -1,80 +1,73 @@
-Likithraj N
+# Likithraj N
 
-Software Developer | Python (Django) • .NET • MERN • AI/ML
+**Software Developer** • Python (Django) • .NET • MERN • AI/ML
 
 <p align="left">
-<a href="https://linkedin.com/in/liki22" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-000000%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn">
-</a>
-<a href="mailto:likhitnataraj@gmail.com" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Gmail-000000%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email">
-</a>
-<a href="https://likith-portfolio-2201.vercel.app/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-000000%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-chrome%26logoColor%3Dwhite" alt="Portfolio">
-</a>
+  <a href="https://linkedin.com/in/liki22" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:likhitnataraj@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://likith-portfolio-2201.vercel.app/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/liki22" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
-Tech Stack
+---
 
+## 💻 Tech Stack
+
+### Languages
 <p>
-<!-- Languages -->
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-000000%3Fstyle%3Dflat-square%26logo%3Dpython%26logoColor%3Dwhite" alt="Python" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/C%2523-000000%3Fstyle%3Dflat-square%26logo%3Dc-sharp%26logoColor%3Dwhite" alt="C#" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-000000%3Fstyle%3Dflat-square%26logo%3Djavascript%26logoColor%3Dwhite" alt="JavaScript" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/TypeScript-000000%3Fstyle%3Dflat-square%26logo%3Dtypescript%26logoColor%3Dwhite" alt="TypeScript" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/SQL-000000%3Fstyle%3Dflat-square%26logo%3Dmicrosoft-sql-server%26logoColor%3Dwhite" alt="SQL" />
-
-
-
-
-
-<!-- AI / ML -->
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/TensorFlow-000000%3Fstyle%3Dflat-square%26logo%3Dtensorflow%26logoColor%3Dwhite" alt="TensorFlow" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Pandas-000000%3Fstyle%3Dflat-square%26logo%3Dpandas%26logoColor%3Dwhite" alt="Pandas" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/NumPy-000000%3Fstyle%3Dflat-square%26logo%3Dnumpy%26logoColor%3Dwhite" alt="NumPy" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Scikit_Learn-000000%3Fstyle%3Dflat-square%26logo%3Dscikit-learn%26logoColor%3Dwhite" alt="Scikit-learn" />
-
-
-
-
-
-<!-- Backend -->
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Django-000000%3Fstyle%3Dflat-square%26logo%3Ddjango%26logoColor%3Dwhite" alt="Django" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/.NET-000000%3Fstyle%3Dflat-square%26logo%3Ddotnet%26logoColor%3Dwhite" alt=".NET" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Node.js-000000%3Fstyle%3Dflat-square%26logo%3Dnode.js%26logoColor%3Dwhite" alt="Node.js" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Flask-000000%3Fstyle%3Dflat-square%26logo%3Dflask%26logoColor%3Dwhite" alt="Flask" />
-
-
-
-
-
-<!-- Frontend -->
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-000000%3Fstyle%3Dflat-square%26logo%3Dreact%26logoColor%3Dwhite" alt="React" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/React_Native-000000%3Fstyle%3Dflat-square%26logo%3Dreact%26logoColor%3Dwhite" alt="React Native" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Tailwind_CSS-000000%3Fstyle%3Dflat-square%26logo%3Dtailwind-css%26logoColor%3Dwhite" alt="Tailwind CSS" />
-
-
-
-
-
-<!-- Databases -->
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/MongoDB-000000%3Fstyle%3Dflat-square%26logo%3Dmongodb%26logoColor%3Dwhite" alt="MongoDB" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/MySQL-000000%3Fstyle%3Dflat-square%26logo%3Dmysql%26logoColor%3Dwhite" alt="MySQL" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/SQL_Server-000000%3Fstyle%3Dflat-square%26logo%3Dmicrosoft-sql-server%26logoColor%3Dwhite" alt="SQL Server" />
-
-
-
-
-
-<!-- Tools -->
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/AWS-000000%3Fstyle%3Dflat-square%26logo%3Damazon-aws%26logoColor%3Dwhite" alt="AWS" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-000000%3Fstyle%3Dflat-square%26logo%3Dgit%26logoColor%3Dwhite" alt="Git" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Swagger-000000%3Fstyle%3Dflat-square%26logo%3Dswagger%26logoColor%3Dwhite" alt="Swagger" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
-GitHub Stats
+### AI / ML
+<p>
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+</p>
+
+### Backend
+<p>
+  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+</p>
+
+### Frontend
+<p>
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img alt="React Native" src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
+</p>
+
+### Databases & Tools
+<p>
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-003545?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="left">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dliki22%26show_icons%3Dtrue%26theme%3Dgraywhite%26hide_border%3Dtrue%26count_private%3Dtrue" alt="Likithraj's Stats" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dliki22%26layout%3Dcompact%26theme%3Dgraywhite%26hide_border%3Dtrue" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=liki22&show_icons=true&theme=graywhite&hide_border=true&count_private=true" alt="Likithraj's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liki22&layout=compact&theme=graywhite&hide_border=true" alt="Top Languages" />
 </p>
